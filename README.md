@@ -1,6 +1,7 @@
 # Sign Language in Letters
 
-Datafrom multiple public datasets
+Data from multiple public datasets.
+Build based on open-source projects
 
 1. Run
 ```bash
