@@ -1,0 +1,6 @@
+opencv-python==4.7.0.68
+mediapipe==0.9.0.1
+scikit-learn==1.2.0
+streamlit==1.16.0           
+streamlit-webrtc==0.45.1
+av==9.2.0
