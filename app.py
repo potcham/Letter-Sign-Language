@@ -17,4 +17,9 @@ def callback(frame):
     return av.VideoFrame.from_ndarray(img, format="bgr24")
 
 
-webrtc_streamer(key="example", video_frame_callback=callback)
+webrtc_streamer(key="example", 
+                video_frame_callback=callback, 
+                media_stream_constraints={
+                "video": True,
+                "audio": False},
+            )
