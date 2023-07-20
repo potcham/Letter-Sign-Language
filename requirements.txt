@@ -1,7 +1,7 @@
 opencv-python-headless==4.7.0.68
 mediapipe==0.9.0.1
 scikit-learn==1.3.0
-streamlit==1.16.0           
+streamlit==1.24.1           
 streamlit-webrtc==0.45.1
 av==9.2.0
 altair==4.2
